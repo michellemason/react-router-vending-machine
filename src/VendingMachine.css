@@ -1,0 +1,40 @@
+.NavBar {
+    background-color: darkslateblue;
+    padding: 10px;
+
+}
+
+.NavBar a {
+    font-size: 1.5rem;
+    margin: 1rem;
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+}
+
+.NavBar a.active {
+    color: white;
+}
+
+.Choices {
+    padding: 10px;
+    margin: auto;
+    height: 130px;
+    width: 200px;
+    background-color: darkslateblue;
+    padding: 10px;
+}
+
+.Choices-nav {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    color: white;
+}
+
+.Choices-nav a {
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+}
